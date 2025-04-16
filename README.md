@@ -41,7 +41,7 @@ Used retail sales data to explore patterns and demonstrate specific Excel functi
 Analysed bike sales data to understand performance and profitability.
 
 **Data:**
-* `Bike Sales.csv`: Raw transaction data.
+* `Bike Sales.xlsx`[Bike_Sales.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/Ea9shnOX2U9PjWQRBPGOXAEBVYqYAD8unbfY-DwmdoUdig?e=7FDhNf): Raw transaction data.
 
 **Analysis & Skills:**
 
