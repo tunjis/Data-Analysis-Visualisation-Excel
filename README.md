@@ -40,8 +40,8 @@
 
 **Key Activities & Skills Demonstrated:**
 
-* Created **Pivot Tables** to summarise sales volume by County and Product.
-* Applied the **SWITCH** function, incorporating **AND** logic, to accurately categorise sales volume into "High", "Medium", and "Low" tiers based on specified thresholds.
+* Created **`Pivot Tables`** to summarise sales volume by County and Product.
+* Applied the **`SWITCH`** function, incorporating **`AND`** logic, to accurately categorise sales volume into "High", "Medium", and "Low" tiers based on specified thresholds.
 
 ---
 
