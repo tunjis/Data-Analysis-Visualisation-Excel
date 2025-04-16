@@ -23,7 +23,7 @@ Used retail sales data to explore patterns and demonstrate specific Excel functi
 
 2.  **Lookup Functions (`Transactions.csv`):**
     * Demonstrated `VLOOKUP` and `XLOOKUP` for retrieving data (e.g., Product Category based on ID).
-    * Used `CONCATENATE` for combining text fields.
+    * Used `CONCATENATE` for combining text fields
     * *Skills: `VLOOKUP`, `XLOOKUP`, `CONCATENATE`, Data Retrieval.*
 
 3.  **Sales Summary (`PivotTable.csv`):**
@@ -31,7 +31,7 @@ Used retail sales data to explore patterns and demonstrate specific Excel functi
     * *Skills: PivotTables, Sales Analysis.*
 
 4.  **Basic Calculations (`Task 2.csv`):**
-    * Used `AVERAGE` and `MAX` for student score analysis.
+    * Used `AVERAGE` and `MAX` for student score analysis
     * *Skills: `AVERAGE`, `MAX`.*
 
 ---
@@ -47,13 +47,13 @@ Analysed bike sales data to understand performance and profitability.
 
 1.  **PivotTable Summaries:**
     * `PivotTableProfit.csv`: Profit broken down by Age Group, Gender, and Country.
-    * `PivotTableSales.csv`: Sales Volume (Order Quantity) by the same dimensions.
+    * `PivotTableSales.csv`: Sales Volume (Order Quantity) by the same dimensions
     * *Skills: PivotTables, Data Aggregation, Multi-dimensional Analysis.*
 
 2.  **Visualisations (from `Bike_Sales_Visualisation_Lab.pdf` & workbook):**
     * **Line Chart:** Tracked Profit and Revenue trends over multiple years (e.g., 2017-2021).
     * **Column Chart:** Compared Product Revenue across different Countries (Australia, Canada, France, etc.).
-    * **Pie Chart:** Showed Revenue contribution by Customer Age Group.
+    * **Pie Chart:** Showed Revenue contribution by Customer Age Group
     * *Skills: Chart Creation (Line, Column, Pie), Data Visualisation, Trend Analysis, Comparative Analysis, Chart Formatting.*
 
 
