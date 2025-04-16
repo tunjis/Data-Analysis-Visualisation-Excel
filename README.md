@@ -4,7 +4,7 @@
 
 ## Project 1: Retail Sales Analysis & Function Application
 
-[retail_sales_dataset.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EW2mJFN6GN5HsUmKJ7xwof8B9vUReVYqlEq2GSOQzoHAkg?e=fupuA3)
+<img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> [retail_sales_dataset.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EW2mJFN6GN5HsUmKJ7xwof8B9vUReVYqlEq2GSOQzoHAkg?e=fupuA3)
 
 **Objective:** Analysed retail sales data to uncover patterns and demonstrate core Excel data handling, formula application, and summarisation skills.
 
@@ -19,7 +19,7 @@
 
 ## Project 2: Student Performance Analysis
 
-[Students.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EWGRHqxEdA5HltvKQrbbM7gB6mpESBX70W56DRFfG_Oi-g?e=hrdftL)
+<img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> [Students.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EWGRHqxEdA5HltvKQrbbM7gB6mpESBX70W56DRFfG_Oi-g?e=hrdftL)
 
 **Objective:** Analysed student scores to identify top performers and demonstrate targeted formula application and conditional formatting.
 
@@ -34,7 +34,7 @@
 
 ## Project 3: Tech Shop Data Analysis
 
-[Tech shop.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EQj4X42Ep6NKoZdm-975RN8BhzZ0UW2SKUl47FckdTbrsg?e=ONfsbi)
+<img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> [Tech shop.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EQj4X42Ep6NKoZdm-975RN8BhzZ0UW2SKUl47FckdTbrsg?e=ONfsbi)
 
 **Objective:** (Placeholder - To be defined based on analysis performed). This workbook contains gadget shop data.
 
@@ -46,7 +46,7 @@
 
 ## Project 4: Bike Sales Performance & Visualisation
 
-[Bike_Sales.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/Ea9shnOX2U9PjWQRBPGOXAEBVYqYAD8unbfY-DwmdoUdig)
+<img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> [Bike_Sales.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/Ea9shnOX2U9PjWQRBPGOXAEBVYqYAD8unbfY-DwmdoUdig)
 
 **Objective:** Analysed detailed bike sales data to understand profitability drivers and market performance, then visualised key findings effectively.
 
