@@ -68,7 +68,7 @@
 
 
 ## 📊 Example Output
-![Excel Workbook](.xlxs/Excel_Workbook.docx)  
+![Excel Workbook](Excel_Workbook.docx)  
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
