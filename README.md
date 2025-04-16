@@ -36,11 +36,12 @@
 
 <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> [tech_shop.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EQj4X42Ep6NKoZdm-975RN8BhzZ0UW2SKUl47FckdTbrsg?e=ONfsbi)
 
-**Objective:** (Placeholder - To be defined based on analysis performed). This workbook contains gadget shop data.
+**Objective:** Analysed tech shop sales data for various English counties, summarising performance and categorising sales volume using logical functions.
 
 **Key Activities & Skills Demonstrated:**
 
-* *(Specific tasks and skills applied to `Tech shop.xlsx` are not detailed in the provided task documentation. This section acknowledges the file as part of the portfolio.)*
+* Created **Pivot Tables** to summarise sales volume by County and Product.
+* Applied the **SWITCH** function, incorporating **AND** logic, to accurately categorise sales volume into "High", "Medium", and "Low" tiers based on specified thresholds.
 
 ---
 
