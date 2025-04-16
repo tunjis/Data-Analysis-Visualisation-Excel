@@ -64,7 +64,12 @@
 * **Formulas & Logic:** `SUM`, `AVERAGE`, `MAX`, `IF`, `SWITCH`, `AND`, `COUNTA`, (and potentially `VLOOKUP`/`XLOOKUP`, `CONCATENATE`, `FILTER`, `TEXTJOIN`).
 * **Analysis Engine:** `Pivot Tables` for multi-dimensional summaries and insights.
 * **Visualisation:** Creating and refining `Line Charts`, `Column Charts`, and `Pie Charts` for clear communication.
-* **Presentation:** `Conditional Formatting`, logical workbook structure. 
+* **Presentation:** `Conditional Formatting`, logical workbook structure.
+
+
+## 📊 Example Output
+<img src="https://img.icons8.com/color/24/000000/microsoft-word-2019--v1.png" alt="Microsoft Word Icon"/> [Excel_Workbook](https://justit831-my.sharepoint.com/:w:/g/personal/justincracium_bootcamp_justit_co_uk/Ed6f6o9TGJ5IsoIPmMorG70BjF_g5-veUx7M6mRLxhTWRA?e=6Lu76l)  
+
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
