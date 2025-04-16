@@ -11,7 +11,7 @@ Welcome to my GitHub repository showcasing my data analysis skills, with a parti
 Used retail sales data to explore patterns and demonstrate specific Excel functions.
 
 **Data:**
-* `retail_sales_dataset.csv`: Transaction records with customer/product details and calculated commissions.
+* [retail_sales_dataset.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EW2mJFN6GN5HsUmKJ7xwof8BzJZ2j_6W3MkodqCRU0OeTg?e=gv4sLz): Transaction records with customer/product details and calculated commissions.
 
 **Analysis & Skills:**
 
@@ -41,7 +41,7 @@ Used retail sales data to explore patterns and demonstrate specific Excel functi
 Analysed bike sales data to understand performance and profitability.
 
 **Data:**
-* `Bike Sales.xlsx`[Bike_Sales.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/Ea9shnOX2U9PjWQRBPGOXAEBVYqYAD8unbfY-DwmdoUdig?e=7FDhNf): Raw transaction data.
+* `Bike Sales.xlsx`[Bike_Sales.xlsx](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/Ea9shnOX2U9PjWQRBPGOXAEBVYqYAD8unbfY-DwmdoUdig): Raw transaction data.
 
 **Analysis & Skills:**
 
