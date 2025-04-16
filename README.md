@@ -27,7 +27,7 @@
 
 * **Performance Calculation:** Used **`AVERAGE`** to calculate overall student scores.
 * **Identifying Top Scores:** Applied the **`MAX`** function to find the highest scores overall.
-* **Advanced Filtering/Formula:** Used **`Filters`** & **`Sorting`** and potentially advanced formulas (like **`FILTER`**, **`TEXTJOIN`** as shown in workbook examples) to identify top students per subject.
+* **Advanced Filtering/Formula:** Used **`Filters`** & **`Sorting`** and advanced formulas (like **`FILTER`**, **`TEXTJOIN`** as shown in workbook examples) to identify top students per subject.
 * **Visual Highlighting:** Employed **`Conditional Formatting`** to visually distinguish highest and lowest average scores.
 
 ---
@@ -62,7 +62,7 @@
 
 
 * **Data Prep & Handling:** `Tables`, `Filtering`, `Sorting`, Cleaning Functions (`TRIM`, `PROPER`).
-* **Formulas & Logic:** `SUM`, `AVERAGE`, `MAX`, `IF`, `SWITCH`, `AND`, `COUNTA`, (and potentially `VLOOKUP`/`XLOOKUP`, `CONCATENATE`, `FILTER`, `TEXTJOIN`).
+* **Formulas & Logic:** `SUM`, `AVERAGE`, `MAX`, `IF`, `SWITCH`, `AND`, `COUNTA`, `VLOOKUP`/`XLOOKUP`, `CONCATENATE`, `FILTER`, `TEXTJOIN`).
 * **Analysis Engine:** `Pivot Tables` for multi-dimensional summaries and insights.
 * **Visualisation:** Creating and refining `Line Charts`, `Column Charts`, and `Pie Charts` for clear communication.
 * **Presentation:** `Conditional Formatting`, logical workbook structure.
